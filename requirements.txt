@@ -1,4 +1,0 @@
-command to create a virtual environment for the project.
- This will help you manage dependencies and keep your project organized.
-
-py -3.12 -m venv Medibot   
